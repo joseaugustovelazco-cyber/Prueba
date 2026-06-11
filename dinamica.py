@@ -2,4 +2,4 @@ def paciente(id):
     print(id)
       
   
-print(paciente(1))
+print(paciente(1))    
