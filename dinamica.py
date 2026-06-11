@@ -21,4 +21,4 @@ def main():
     pacientes = leer_archivo()
     conteo_fechas = fecha_tratamiento_pacientes(pacientes)
     fig = mostrar_grafico(conteo_fechas)
-    st.pyplot(fig)
+    st.pyplot(fig)v
